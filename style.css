@@ -1,0 +1,69 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color: snow;
+}
+
+#friendTitle{
+  color: dimgrey;
+  padding: 0;
+}
+
+#elizaTitle{
+ font-size: 50px;
+ color: palevioletred;
+ font-weight: bold;
+ padding: 0;
+}
+
+table{
+  color: blue
+}
+
+#totalTitle{
+  border: 5px solid #F7E9E9;
+  border-radius: 15px;
+  margin-left: 450px;
+  margin-right: 450px;
+  background-color: #F7E9E9;
+  margin-bottom: 30px;
+}
+
+#elizaTerminalLink{
+  font-size:20px;
+  font-weight: 800;
+  color: dimgrey;
+  background-color: #F7E9E9;
+  padding: 10px;
+}
+
+TD{
+  color: black;
+}
+
+#firstParagraph{
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 70px;
+  margin-right: 70px;
+  background-color: #F7E9E9;
+  border-radius: 20px;
+  padding: 20px;
+  padding-bottom: 0px;
+}
+
+#JWsentence{
+  margin-top: 20px;
+  text-align: center;
+  font-weight: 600;
+}
+
+#aboutE{
+  background-color: #F7E9E9;
+  padding: 10px;
+}
+
+#bottom{
+  background-color: #F7E9E9;
+
+}
